@@ -1,0 +1,36 @@
+Hal yang diperlukan:
+   1. Vs Code 
+   2. Node Js 
+   
+Instalasi ReactJS:
+
+1. Instalasi Node.js:
+      Unduh Node.js dari https://nodejs.org/en dan instal.
+      Saran: Gunakan versi terbaru Node.js untuk mendapatkan fitur terkini
+
+2. Penggunaan Vite sebagai Build Tool/Bundler:
+      Lihat informasi tentang Vite di https://vitejs.dev/.
+      Kami akan menggunakan Vite sebagai alat pembangun dan bundler.
+
+3. IDE/Text Editor:
+      Pastikan Anda memiliki Visual Studio Code diinstal sebagai IDE atau text editor. Anda dapat mengunduhnya dari https://code.visualstudio.com/.
+
+4. Buka Terminal di VS Code:
+      Buka terminal di Visual Studio Code dengan menekan Ctrl + atau klik View -> Terminal.
+
+5. ketikan dalam terminal: npm create vite@latest 
+   a. Project name: belajar-ReactJs
+   b. package name: belajar-ReactJs
+   c. select a framework: ReactJs
+   d. select a variant : JavaScript + SWC
+
+6. Masuk ke Direktori Proyek:
+      Gunakan perintah cd belajar-ReactJs untuk masuk ke dalam folder proyek yang baru dibuat.
+
+7. ketikan dalam terminal: npm Install tunggu hingga proses instalasi selesai Instalasi Dependensi:
+      Jalankan perintah npm install untuk menginstal semua dependensi proyek.
+
+8.Jalankan Mode Pengembangan:
+      Gunakan perintah npm run dev untuk menjalankan proyek dalam mode pengembangan.
+
+9. lihat di terminal vs code pada bagian Local lalu copy bagian: http://localhost:5173/ lalu buka di browser
